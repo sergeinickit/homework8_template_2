@@ -84,6 +84,3 @@ while True:
         # Тут нужно вызвать функцию с аргументами
         num_row = int(input("Введите номер строки: "))
         transfer_data(file, file_2, num_row)
-
-
-
